@@ -1,3 +1,8 @@
+# About
+
+This app is a movie app that displays trending movies, and provides movie information from TMDB. 
+I followed a JSM tutorial to do this - it is a means to practice and hone my skills in react-native
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
